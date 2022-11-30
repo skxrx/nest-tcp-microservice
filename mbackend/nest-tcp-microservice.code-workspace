@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../mcommunication"
+		},
+		{
+			"path": "../manalytics"
+		}
+	],
+	"settings": {}
+}
